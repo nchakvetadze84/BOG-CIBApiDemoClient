@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CIBApiDemoClient", "CIBApiDemoClient.csproj", "{6918E786-CAE4-4896-9B09-46520967D1FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+		Test Public|Any CPU = Test Public|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6918E786-CAE4-4896-9B09-46520967D1FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6918E786-CAE4-4896-9B09-46520967D1FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6918E786-CAE4-4896-9B09-46520967D1FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6918E786-CAE4-4896-9B09-46520967D1FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6918E786-CAE4-4896-9B09-46520967D1FA}.Test Public|Any CPU.ActiveCfg = Test Public|Any CPU
+		{6918E786-CAE4-4896-9B09-46520967D1FA}.Test Public|Any CPU.Build.0 = Test Public|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6959079D-FC91-45A1-A7FE-F91ADE12D368}
+	EndGlobalSection
+EndGlobal
